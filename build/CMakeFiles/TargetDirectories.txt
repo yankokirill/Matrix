@@ -1,0 +1,3 @@
+/home/kirill/CLionProjects/Matrix/build/CMakeFiles/matrix.dir
+/home/kirill/CLionProjects/Matrix/build/CMakeFiles/edit_cache.dir
+/home/kirill/CLionProjects/Matrix/build/CMakeFiles/rebuild_cache.dir
